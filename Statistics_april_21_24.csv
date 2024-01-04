@@ -1,0 +1,11 @@
+Carrier Code,Date (MM/DD/YYYY),Flight Number,Tail Number,Origin Airport,Scheduled Arrival Time,Actual Arrival Time,Scheduled Elapsed Time (Minutes),Arrival Delay (Minutes),Wheels-on Time,Taxi-In time (Minutes),Delay Carrier (Minutes),Delay Weather (Minutes),Delay National Aviation System (Minutes),Delay Security (Minutes),Delay Late Aircraft Arrival (Minutes)
+UA,4/21/2023,1041,N406UA,DEN,15:06,14:56,198,-10,14:51,5,0,0,0,0,0
+UA,4/21/2023,1185,N826UA,ORD,21:59,21:43,113,-16,21:39,4,0,0,0,0,0
+UA,4/21/2023,2027,N835UA,IAD,23:37,23:33,70,-4,23:26,7,0,0,0,0,0
+UA,4/22/2023,1041,N427UA,DEN,15:06,14:57,198,-9,14:53,4,0,0,0,0,0
+UA,4/22/2023,1185,N815UA,ORD,21:59,22:34,113,35,22:27,7,35,0,0,0,0
+UA,4/22/2023,2027,N822UA,IAD,23:37,23:44,70,7,23:38,6,0,0,0,0,0
+UA,4/23/2023,1041,N4888U,DEN,15:11,15:17,202,6,15:12,5,0,0,0,0,0
+UA,4/23/2023,1185,N801UA,ORD,20:58,20:53,113,-5,20:48,5,0,0,0,0,0
+UA,4/23/2023,2027,N871UA,IAD,23:37,23:25,70,-12,23:21,4,0,0,0,0,0
+UA,4/24/2023,1041,N813UA,DEN,15:11,14:56,202,-15,14:52,4,0,0,0,0,0
